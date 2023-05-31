@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @smosanu
-- 👀 I’m interested in FPGA projects, computer architecture emulation, RISC-V, machine learning, high performance computing, embedded and IoT systems and applications, and other cool concepts 
-- 🌱 I’m currently learning how memory flavors evolved, how to emulate and evaluate them with benchmarks in a miniaturized system using LiteX, how things work
-- 💞️ I’m looking to collaborate on memory and processing-in-memory emulation / prototyping on FPGAs and applications of interest
+- 👀 I’m interested in FPGA projects, computer architecture emulation, RISC-V, machine learning / artificial intelligence / generative AI, high performance computing, embedded and IoT systems and applications, and other cool concepts 
+- 🌱 I’m currently learning and experimenting with generative AI, and trying to contribute from the architecture side of things, plus I'm preparing for technical interviews and finishing up Ph.D. thesis related work
+- 💞️ I’m looking for new opportunities, work on AI, computer architecture, FPGA and other related fields
 - 📫 Reach me on twitter @smosanu or email me.
 
 <!---
